@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+### Introducción
 
-[Link to another page](./curriculum.html).
+Analista de sistemas
 
-There should be whitespace between paragraphs.
+Líder de proyecto en Administración Tributaria Provincial, Chaco
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Programador senior full stack Blazor
 
-# Header 1
+Documentación completa: [Curriculum Vitae](./assets/Curriculum%20Vitae%20-%20Mena%20Matias.pdf)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Proyecto reciente
 
-## Header 2
+#### Portal ATP
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Realizado con Blazor App en DotNet 8 y Postgre
 
-### Header 3
+Arquitectura monolítica modularizada con 5 módulos integrados
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Características:
+* MudBlazor
+* Serilog
+* EntityFramework
+* OpenOffice
+* CSV
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+##### Capturas de pantalla
 
-#### Header 4
+![Identificación de usuario](./assets/images/Portal%20identificacion.png)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+![Página principal](./assets/images/Pagina%20principal.png)
 
-##### Header 5
+![Listado](./assets/images/Modulos%20listado.png)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+![ABM](./assets/images/Agentes%20abm.png)
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+![PopUp](./assets/images/Acta%20detalle.png)
